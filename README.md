@@ -3,9 +3,10 @@
 I'm Vijay pardhu 🚀, I am currently learning Frontend Development and I am from Hyderabad. I'm passionate about Web Development, Machine Learning, and love to code in Java, HTML, CSS, JavaScript, DOM, Jquery.
 
 ## 🔭 Current Projects
-- [To Do List App](https://todo-app-vijay.netlify.app/)
+- [Tesla Clone](https://tesla-clone-vijay.netlify.app/)
 - [Weather App](https://weather-app-vijay.netlify.app/)
 - [QR code generator](https://qr-generator-vijay.netlify.app/)
+- [To Do List App](https://todo-app-vijay.netlify.app/)
 
 ## 🌱 What I'm Learning
 - Java

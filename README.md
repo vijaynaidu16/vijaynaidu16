@@ -18,7 +18,7 @@ I'm Vijay pardhu 🚀, I am currently learning Frontend Development and I am fro
 - [Twitter](https://twitter.com/vijaynaidu_16)
 - [LinkedIn](https://www.linkedin.com/in/vijay-pardhu/)
 
-### I Love you valli 🥺❤️
+
 
 
 Thanks for stopping by, feel free to check out my projects and drop me a message if you have any questions or just want to say hi!

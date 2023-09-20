@@ -1,6 +1,6 @@
 
 # Hi there! 👋
-I'm Vijay pardhu 🚀, I am currently learning Frontend Development and I am from Hyderabad. I'm passionate about Web Development, Machine Learning, and love to code in Java, HTML, CSS, JavaScript, DOM, Jquery.
+I'm Vijay pardhu 🚀, I am currently learning Frontend Development and I am from Hyderabad. I'm passionate about Web Development.
 
 ## 🔭 Current Projects
 - [Tesla Clone](https://tesla-clone-vijay.netlify.app/)

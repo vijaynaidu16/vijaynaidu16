@@ -1,8 +1,10 @@
 
 # Hi there! 👋
 I'm Vijay pardhu 🚀, I am currently learning Frontend Development and I am from Hyderabad. I'm currently learning Front-end 
-##🚀 My Portfolio
-[Vijay Portfolio](https://vijaypardhu-portfolio.netlify.app/)
+
+
+## 🚀 My Portfolio
+- [Vijay Portfolio](https://vijaypardhu-portfolio.netlify.app/)
 
 ## 🔭 Current Projects
 - [Tesla Clone](https://tesla-clone-vijay.netlify.app/)

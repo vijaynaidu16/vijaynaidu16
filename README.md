@@ -1,6 +1,6 @@
 
 # Hi there! 👋
-I'm Vijay pardhu 🚀, I am currently learning Frontend Development and I am from Hyderabad. I'm currently learning Front-end 
+I'm Vijay pardhu 🚀, I am currently learning Full-stack Development and I am from Hyderabad.
 
 
 ## 🚀 My Portfolio
@@ -15,8 +15,13 @@ I'm Vijay pardhu 🚀, I am currently learning Frontend Development and I am fro
 ## 🌱 What I'm Learning
 - Java
 - HTML
-- CS
+- CSS
+- TailwindCSS
 - JavaScript
+- React
+- NodeJs
+- ExpressJs
+- MongoDB
 
 ## 💬 Let's Connect!
 - [Twitter](https://twitter.com/vijaynaidu_16)

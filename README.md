@@ -5,6 +5,7 @@ I'm Vijay pardhu 🚀, I am currently learning Full-stack Development and I am f
 
 ## 🚀 My Portfolio
 - [Vijay Portfolio](https://vijaypardhu-portfolio.netlify.app/)
+- [Resume](https://vijaynaidu095.hackerresume.io/f9717a70-c416-4107-ab4b-b6e0d4514507)
 
 ## 🔭 Current Projects
 - [Tesla Clone](https://tesla-clone-vijay.netlify.app/)

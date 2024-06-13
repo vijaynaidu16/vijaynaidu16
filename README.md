@@ -8,6 +8,7 @@ I'm Vijay pardhu 🚀, I am currently learning Full-stack Development and I am f
 - [Resume](https://vijaynaidu095.hackerresume.io/f9717a70-c416-4107-ab4b-b6e0d4514507)
 
 ## 🔭 Current Projects
+- [Food Delivery - Swiggy API (use cors extension if not working)](https://food-delivery-vijay.netlify.app/)
 - [Tesla Clone](https://tesla-clone-vijay.netlify.app/)
 - [Weather App](https://weather-app-vijay.netlify.app/)
 - [QR code generator](https://qr-generator-vijay.netlify.app/)

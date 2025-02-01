@@ -1,37 +1,36 @@
+# 🚀 Hey, I'm Vijay Pardhu!  
 
-# Hi there! 👋
-I'm Vijay pardhu 🚀, I am currently learning Full-stack Development and I am from Hyderabad.
+**Aspiring Full-Stack Developer | Passionate Problem Solver | Tech Enthusiast**  
 
+👨‍💻 Crafting seamless digital experiences with **JavaScript, React, Node.js, and more.**  
+🌏 From Hyderabad, building projects that make an impact.  
+🎯 Currently exploring **backend optimizations & cloud integrations.**  
 
-## 🚀 My Portfolio
-- [Vijay Portfolio](https://vijaypardhu-portfolio.netlify.app/)
-- [Resume](https://vijaynaidu095.hackerresume.io/f9717a70-c416-4107-ab4b-b6e0d4514507)
+---
 
-## 🔭 Current Projects
-- [Food Delivery - Swiggy API (use cors extension if not working)](https://food-delivery-vijay.netlify.app/)
-- [Tesla Clone](https://tesla-clone-vijay.netlify.app/)
-- [Weather App](https://weather-app-vijay.netlify.app/)
-- [QR code generator](https://qr-generator-vijay.netlify.app/)
-- [To Do List App](https://todo-app-vijay.netlify.app/)
+## 🌐 Portfolio & Resume  
+🔗 **Portfolio:** [vijaypardhu-portfolio.netlify.app](https://vijaypardhu-portfolio.netlify.app/)  
+📜 **Resume:** [View Here](https://drive.google.com/file/d/1qwzHDvnxPYfmAPi0dSve9ci4Jgquy21c/view?usp=drive_link)  
 
-## 🌱 What I'm Learning
-- Java
-- HTML
-- CSS
-- TailwindCSS
-- JavaScript
-- React
-- NodeJs
-- ExpressJs
-- MongoDB
+---
 
-## 💬 Let's Connect!
-- [Twitter](https://twitter.com/vijaynaidu_16)
-- [LinkedIn](https://www.linkedin.com/in/vijay-pardhu/)
+## 🔥 Featured Projects  
+🚀 **[Food Delivery - Swiggy API](https://food-delivery-vijay.netlify.app/)** *(Use CORS extension if needed)*  
+🎬 **[Movie-GPT](https://movie-gpt-vijay.vercel.app/)** *(AI-powered movie recommendations with OpenAI & TMDB API)*  
 
+---
 
+## 🛠 Tech Stack  
+💻 **Frontend:** HTML | CSS | TailwindCSS | JavaScript | React | Redux  
+🖥 **Backend:** Node.js | Express.js | MongoDB | Postman  
+⚙️ **Additional:** GitHub | REST APIs | Deployment  
 
+---
 
-Thanks for stopping by, feel free to check out my projects and drop me a message if you have any questions or just want to say hi!
+## 🤝 Connect with Me!  
+💼 **LinkedIn:** [Vijay Pardhu](https://www.linkedin.com/in/vijay-pardhu/)  
+📩 Open to collaborations, discussions, and networking!  
 
+---
 
+Thanks for dropping by! Let's build something awesome together. 🚀✨
